@@ -1,0 +1,98 @@
+body {
+    background-image: url('Background4.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: "Copperplate", fantasy;
+    font-size: 70px;
+}
+
+h2 {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: "Copperplate", fantasy;
+    font-size: 50px;
+}
+
+h3 {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: "Copperplate", fantasy;
+    font-size: 30px;
+}
+
+p1 {
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding: inherit;
+    color: white;
+    font-size: 20px;
+}
+
+p2,p3 {
+    display: block;
+    text-align: center;
+    margin-right: auto;
+    padding: inherit;
+    color: white;
+    font-size: 20px;
+}
+
+.button a {
+    display: block;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.button2 a {
+    display: block;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+img {
+    display: inline-block;
+    border-radius: 8px;
+}
+
+.Car1 {
+    display: inline-block;
+    width: 30%;
+    height: 10%;
+    margin-left: 50px;
+    margin-right: auto;
+    float: inherit;
+}
+
+.Car2 {
+    display: inline-block;
+    width: 30%;
+    height: 610px;
+    margin-left: 475px;
+    margin-right: auto;
+    float: inherit;
+}
+
+.Car3 {
+    display: block;
+    width: 40%;
+    height: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    float: inherit;
+}

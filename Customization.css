@@ -1,0 +1,51 @@
+body {
+    background-image: url('Background.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: "Copperplate", fantasy;
+    font-size: 70px;
+}
+
+h2 {
+    text-align: right;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: "Copperplate", fantasy;
+    font-size: 50px;
+}
+
+p1,p2,p3,p4 {
+    display: block;
+    text-align: right;
+    color: white;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p5,p6,p7,p8,p9,p10,p11 {
+    display: block;
+    text-align: right;
+    color: white;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: 60px;
+}
+
+.button a {
+    display: block;
+    text-align: right;
+    color: white;
+    font-size: 25px;
+    margin-right: 20px;
+}
